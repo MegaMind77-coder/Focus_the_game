@@ -11,6 +11,8 @@ Rules:
 (4)Refresh the page to play again 
 
 This game is built by team FIGHT_CLUB 
+
+
 Members:
 
 Ishan Shanware 
