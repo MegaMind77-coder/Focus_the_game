@@ -1,5 +1,5 @@
 
-
+https://megamind77-coder.github.io/Focus_the_game/
 
 
 # Focus_the_game
@@ -12,5 +12,8 @@ Rules:
 
 This game is built by team FIGHT_CLUB 
 Members:
+
 Ishan Shanware 
+
+
 Krishna Sharma 
